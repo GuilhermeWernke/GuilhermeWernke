@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuilhermeWernke
 - 👀 I'm interested in Games
-- 🌱 I’m currently learning PORTUGOL
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on nothing (I'm really bad)
 - 📫 How to reach me guilherme.wernke.tds2023@gmail.com
 
