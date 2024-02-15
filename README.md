@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuilhermeWernke
-- 👀 I'm interested in Games
+- 👀 I'm interested in Games and Chess
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on nothing (I'm really bad)
+- 💞️ I have no desire to collaborate (because I'm bad)
 - 📫 How to reach me guilherme.wernke.tds2023@gmail.com
 
 <!---
