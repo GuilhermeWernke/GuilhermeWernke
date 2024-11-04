@@ -1,9 +1,9 @@
-<!---
+
 Cursando Tecnico em desenvolvimento de sistemas no IFPR Campus Foz do Iguaçu<br>16 anos  19/05/2008<br><br>"Hand, hands getting cold<br>Losing feeling is getting old<br>Was I made from a broken mold?"
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evillyn.xo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/evillyn.xo](https://www.instagram.com/guilherme.c.w/))
 
 # 💻 Linguagens:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -17,15 +17,4 @@ Cursando Tecnico em desenvolvimento de sistemas no IFPR Campus Foz do Iguaçu<br
 
 ---
 [![](https://visitcount.itsvg.in/api?id=htttpsviiiih&icon=0&color=0)](https://visitcount.itsvg.in)
---->
-
-- 👋 Hi, I’m @GuilhermeWernke
-- 👀 I'm interested in Games and Chess
-- 🌱 I’m currently learning PHP
-- 💞️ I have no desire to collaborate (because I'm bad)
-- 📫 How to reach me guilherme.wernke.tds2023@gmail.com
-
-<!---
-GuilhermeWernke/GuilhermeWernke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
