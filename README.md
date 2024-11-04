@@ -1,5 +1,9 @@
 ## Olá, meu nome é Guilherme Canever Wernke!
+---
+
  <p>Estudo no IFPR campus Foz do Iguaçu</p>
+ 
+---
 
 ### ⚙️ Análise do GitHub
 
