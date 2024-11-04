@@ -1,5 +1,5 @@
-# euaquitlgd?
-Cursando Tecnico em desenvolvimento de sistemas no IFPR 2/4<br>16 anos  19/05/2008<br><br>"Hand, hands getting cold<br>Losing feeling is getting old<br>Was I made from a broken mold?"
+<!---
+Cursando Tecnico em desenvolvimento de sistemas no IFPR Campus Foz do Iguaçu<br>16 anos  19/05/2008<br><br>"Hand, hands getting cold<br>Losing feeling is getting old<br>Was I made from a broken mold?"
 
 
 ## 🌐 Socials:
@@ -17,6 +17,7 @@ Cursando Tecnico em desenvolvimento de sistemas no IFPR 2/4<br>16 anos  19/05/20
 
 ---
 [![](https://visitcount.itsvg.in/api?id=htttpsviiiih&icon=0&color=0)](https://visitcount.itsvg.in)
+--->
 
 - 👋 Hi, I’m @GuilhermeWernke
 - 👀 I'm interested in Games and Chess
