@@ -1,6 +1,6 @@
-## Olá, meu nome é {seu nome}!
+## Olá, meu nome é Guilherme Canever Wernke!
 
-### ⚙️ GitHub Analytics
+### ⚙️ Análise do GitHub
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
 
 --- 
 
-### 🏆 GitHub Profile Trophy
+### 🏆 Troféus GitHub
 
 <p align="center">
   <a
@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Contador de Visitas do Perfil</b></h3>
 </div>
 
 <p align="center">
